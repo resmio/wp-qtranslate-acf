@@ -1,7 +1,7 @@
 {
-  "name": "wp-plugins/acf-qtranslate",
+  "name": "resmio/acf-qtranslate",
   "version": "master",
-  "type": "wordpress-plugin",
+  "type": "wordpress-muplugin",
   "source": {
       "url": "git@github.com:resmio/wp-qtranslate-acf.git",
       "type": "git",
